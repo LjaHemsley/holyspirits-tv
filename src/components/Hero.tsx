@@ -88,14 +88,14 @@ export default function Hero() {
           className="flex flex-col items-center gap-6"
         >
           <motion.a 
-            href="https://treasuresofthechurch.com/donate/"
+            href="https://www.youtube.com/watch?v=hG7PCRHYoDE"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.02 }}
             whileTap={{ scale: 0.98 }}
             className="group relative inline-flex items-center justify-center px-10 py-5 md:px-16 md:py-6 bg-brand-gold text-brand-dark rounded-full font-bold uppercase tracking-[0.3em] text-sm md:text-base hover:bg-white transition-all duration-500 shadow-2xl shadow-brand-gold/20"
           >
-            Donate Now
+            Watch Trailer
             <ArrowRight className="ml-4 w-5 h-5 group-hover:translate-x-2 transition-transform" />
           </motion.a>
           

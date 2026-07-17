@@ -44,12 +44,12 @@ export default function Navbar() {
           Contact Us
         </a>
         <a 
-          href="https://treasuresofthechurch.com/donate/"
+          href="https://www.youtube.com/watch?v=hG7PCRHYoDE"
           target="_blank"
           rel="noopener noreferrer"
           className="px-5 py-2 bg-brand-gold text-brand-dark text-xs uppercase tracking-[0.2em] font-bold rounded-full hover:bg-white transition-all duration-300"
         >
-          Donate Now
+          Watch Trailer
         </a>
       </div>
     </motion.nav>
